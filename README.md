@@ -18,7 +18,3 @@ A fast, modern, and minimal URL shortener built with Next.js 14.
 - **Styling:** Tailwind CSS
 - **Database:** 【entity-MongoDB¦canonical_name=MongoDB】
 - **Deployment:** Vercel
-
-### 🚀 Getting Started
-
-  
