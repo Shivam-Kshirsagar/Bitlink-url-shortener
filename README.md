@@ -21,5 +21,4 @@ A fast, modern, and minimal URL shortener built with Next.js 14.
 
 ### 🚀 Getting Started
 
-1. Clone the repository:
   
