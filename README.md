@@ -22,6 +22,4 @@ A fast, modern, and minimal URL shortener built with Next.js 14.
 ### 🚀 Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivam-Kshirsagar/Bitlink-url-shortener.git
-   cd Bitlink-url-shortener
+  
