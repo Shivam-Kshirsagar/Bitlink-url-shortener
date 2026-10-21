@@ -5,7 +5,7 @@ A fast, modern, and minimal URL shortener built with Next.js 14.
 **Live Demo:** https://Shivam-Kshirsagar.github.io/Bitlink-url-shortener/
 
 ---
-g
+
 ### ✨ Features
 - Instant URL shortening
 - Clean and minimal UI with Tailwind CSS
